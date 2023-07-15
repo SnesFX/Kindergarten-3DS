@@ -20,7 +20,7 @@
 
 # Notes
 
-If you're a Unity dev and you know how to do decomps/ports, you can help me or SpanishFreddy with the code talking with us on discord.
+If you're a Unity dev and you know how to do decomps/ports, you can help me or SpanishFreddy with the code by talking with us on discord.
 
 My discord: funkiin
 
